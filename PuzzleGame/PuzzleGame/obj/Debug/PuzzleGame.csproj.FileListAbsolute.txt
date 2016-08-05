@@ -1,0 +1,6 @@
+C:\Practise\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Practise\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Practise\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Practise\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csprojResolveAssemblyReference.cache
+C:\Practise\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Practise\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
